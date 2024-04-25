@@ -1,0 +1,5 @@
+host = 'localhost'
+port = '5433'
+dbname = 'market_data'
+user = 'postgres'
+pwd = 'Er!c374226'
